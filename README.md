@@ -22,6 +22,8 @@ This repository showcases advanced prompt engineering techniques used to transla
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/2a366ec5-c9d9-478e-815d-3ec1d9573f12" />
 
 
-## 📈 Key Takeaways: Mastered prompting for high-concept art and hyper-realistic environment visualization. Understood the generating styles of different models and prompt refinement for better outputs.
+## 📈 Key Takeaways:
+Mastered prompting for high-concept art and hyper-realistic environment visualization.
+Understood the generating styles of different models and prompt refinement for better outputs.
 
 ---
